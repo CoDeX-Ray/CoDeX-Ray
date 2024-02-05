@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @CoDeX-Ray
-- 👀 I’m interested in experimenting codes
-- 🌱 I’m currently learning HTML, CSS, C#, and C++
-- 💞️ I’m looking to collaborate (Soon)
-- 📫 How to reach me (?)
-- 😄 Pronouns: (?)
-- ⚡ Fun fact: The more you encounter problems, the more experience you gain.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raymundo De Borja III
+=============================================================================================================================================
 
-<!---
-CoDeX-Ray/CoDeX-Ray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering Student
+----------------------------
+
+* 🌍  I'm based in Philippines
+* ✉️  You can contact me at [raymundo3deborja@gmail.com](mailto:raymundo3deborja@gmail.com)
+* 🚀  I'm currently working on [My First Portfolio](http://s)
+* 🧠  I'm learning HTML, CSS, JS, C#
+* 🤝  I'm open to collaborating on (?)
+* ⚡  Fun fact: The more you encounter problems, the more experience you gain.
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/RayMund3DeBorja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CoDeX-Ray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/CoDeX-Ray"><img src="https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CoDeX-Ray's GitHub stats" /></a>
+
+<a href="http://www.github.com/CoDeX-Ray"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/CoDeX-Ray" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoDeX-Ray&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
