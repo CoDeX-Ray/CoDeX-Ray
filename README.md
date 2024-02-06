@@ -23,12 +23,15 @@ Computer Engineering Student
 
 <p align="left"> <a href="https://www.facebook.com/RayMund3DeBorja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CoDeX-Ray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/CoDeX-Ray"><img src="https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CoDeX-Ray's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=CoDeX-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/CoDeX-Ray"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/CoDeX-Ray" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoDeX-Ray&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
