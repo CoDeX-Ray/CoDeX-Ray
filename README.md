@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Engineering Student
 ----------------------------
+[![](https://visitcount.itsvg.in/api?id=CoDeX-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
 * 🌍  I'm based in Earth
 * 🚀  I'm currently working on [My First Portfolio](http://s)
 * 🧠  I'm learning HTML, CSS, JS, C#
@@ -25,5 +26,4 @@ Computer Engineering Student
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=CoDeX-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
