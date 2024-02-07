@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=CoDeX-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=CoDeX-Ray&color=113e50)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
+  ![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br> <br>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
 
 </div>
