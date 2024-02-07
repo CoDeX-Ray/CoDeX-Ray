@@ -4,36 +4,63 @@
 
 ----------------------------
 
-🤖 Hi My name is Raymund
-=============================================================================================================================================
+<h1 align="center"> 🤖 Hi My name is Raymund 🤖 </h1>
 
-
-# 👨🏻‍💻 Computer Engineering Student
 ----------------------------
+
+<h2 align="center"> 👨🏻‍💻 Computer Engineering Student 👨🏻‍💻 </h2>
+
+----------------------------
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=CoDeX-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
-* 🌍  I'm based in Earth
-* 🚀  I'm currently working on [My First Portfolio](http://s)
-* 🧠  I'm learning HTML, CSS, JS, C#
-* 🤝  I'm open to collaborating on (?)
-* ⚡  Fun fact: The more you encounter problems, the more experience you gain.
+
+<p align="left">
+* 🌍  I'm based in Earth <br>
+* 🚀  I'm currently working on [My First Portfolio](http://s) <br>
+* 🧠  I'm learning HTML, CSS, JS, C# <br>
+* 🤝  I'm open to collaborating on (?) <br>
+* ⚡  Fun fact: The more you encounter problems, the more experience you gain. <br>
+</p>
+
+</div>
 
 ----------------------------
-# 🦾 Skills
-<p align="left">
+
+<h2 align="center"> 🦾 Skills </h2>
+
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="32" height="32" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="32" height="32" alt="C++" /></a>
 </p>
 
 ----------------------------
-# 👥 Socials
-<p align="left"> <a href="https://www.facebook.com/RayMund3DeBorja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CoDeX-Ray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+<h2 align="center"> 👥 Socials </h2>
+
+<p align="center"> <a href="https://www.facebook.com/RayMund3DeBorja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CoDeX-Ray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ----------------------------
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
+
+</div>
 
 ----------------------------
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<h2 align="center"> 🏆 GitHub Trophies </h2>
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
+
+</div>
+
+----------------------------
