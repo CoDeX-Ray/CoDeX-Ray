@@ -19,8 +19,9 @@
 </div>
 
 <p align="left">
+
 * 🌍  I'm based in Earth <br>
-* 🚀  I'm currently working on [My First Portfolio](http://s) <br>
+* 🚀  I'm currently working on [something](http://s) <br>
 * 🧠  I'm learning HTML, CSS, JS, C# <br>
 * 🤝  I'm open to collaborating on (?) <br>
 * ⚡  Fun fact: The more you encounter problems, the more experience you gain. <br>
