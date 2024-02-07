@@ -19,7 +19,6 @@
 </div>
 
 <p align="left">
-
 * 🌍  I'm based in Earth <br>
 * 🚀  I'm currently working on [My First Portfolio](http://s) <br>
 * 🧠  I'm learning HTML, CSS, JS, C# <br>
@@ -36,12 +35,6 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="65" height="65" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="65" height="65" alt="C++" /></a>
 </p>
-
-----------------------------
-
-<h2 align="center"> 👥 Socials </h2>
-
-<p align="center"> <a href="https://www.facebook.com/RayMund3DeBorja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="65" height="65" /> </picture> </a> <a href="https://www.github.com/CoDeX-Ray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="65" height="65" /> </picture> </a></p>
 
 ----------------------------
 
