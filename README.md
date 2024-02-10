@@ -12,11 +12,13 @@
 
 ----------------------------
 
+<!---
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=CoDeX-Ray&color=113e50)
 
 </div>
+-->
 
 <p align="left">
 
@@ -27,6 +29,12 @@
 * ⚡  Fun fact: The more you encounter problems, the more experience you gain. <br>
 
 </p>
+
+----------------------------
+
+<div align="center">
+<br><p align="centre"><b> Views </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CoDeX-Ray}/count.svg" /></p>
 
 ----------------------------
 
