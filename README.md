@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CoDeX-Ray&color=113e50)
+  ![](https://komarev.com/ghpvc/?username=CoDeX-Ray&color=113e50)
 
 </div>
 
@@ -30,6 +30,17 @@
 
 ----------------------------
 
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+
+<div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+</div>
+
+----------------------------
+
 <h2 align="center"> 🦾 Skills </h2>
 
 <p align="center">
@@ -39,6 +50,8 @@
 
 ----------------------------
 
+<!---
+
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
@@ -47,10 +60,11 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
 
 </div>
+-->
 
 ----------------------------
 
-<h2 align="center"> 🏆 GitHub Trophies </h2>
+<h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
 
 <div align="center">
   
