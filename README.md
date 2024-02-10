@@ -65,9 +65,16 @@
 <h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
 
 <div align="center">
-  
+
+<!---
+
   ![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
+
+-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&margin-w=15&no-bg=true&no-frame=true)](https://github.com/CoDeX-Ray/github-profile-trophy)
+
 
 </div>
 
