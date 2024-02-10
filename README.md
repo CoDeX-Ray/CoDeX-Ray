@@ -34,9 +34,9 @@
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoDeX-Ray&show_icons=true&theme=react" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
 </div>
 
 ----------------------------
@@ -61,8 +61,6 @@
 
 </div>
 -->
-
-----------------------------
 
 <h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
 
