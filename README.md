@@ -8,7 +8,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h3>
+<h2 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h2>
 
 ###
 
