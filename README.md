@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
+<img data-importer="image" align="left" height="90" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
