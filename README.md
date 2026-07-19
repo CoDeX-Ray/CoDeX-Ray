@@ -1,97 +1,59 @@
-----------------------------
-
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/CoDeX-Ray/CoDeX-Ray/assets/142377798/b08aef22-dc8d-472c-9adf-02903678c6ee)
-
-----------------------------
-
-<h1 align="center"> 🤖 Hi My name is Raymund 🤖 </h1>
-
-----------------------------
-
-<h2 align="center"> 👨🏻‍💻 Computer Engineering Student 👨🏻‍💻 </h2>
-
-----------------------------
-<div align="center">
-<br><p align="centre"><b> Views </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CoDeX-Ray}/count.svg" /></p>
-
-<!---
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=CoDeX-Ray&color=113e50)
-
-</div>
--->
-
-----------------------------
-
-<p align="left">
-
-* 🌍  I'm based in Earth <br>
-* 🚀  I'm currently working on [something](http://s) <br>
-* 🧠  I'm learning HTML, CSS, JS, C# <br>
-* 🤝  I'm open to collaborating on (?) <br>
-* ⚡  Fun fact: The more you encounter problems, the more experience you gain. <br>
-
-</p>
-
-----------------------------
-
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
-
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoDeX-Ray&show_icons=true&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-----------------------------
+###
 
-<h2 align="center"> 🦾 Skills </h2>
+<img data-importer="image" align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
 
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="65" height="65" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="65" height="65" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="65" height="65" alt="java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
-</p>
+###
 
-----------------------------
+<h1 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h1>
 
-<!---
+###
 
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=CoDeX-Ray&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br> <br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=CoDeX-Ray&theme=dark&hide_border=false)<br/>
-
-</div>
--->
-
-<h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
-
-<div align="center">
-
-<!---
-
-  ![](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoDeX-Ray&theme=radical&margin-w=15&no-bg=true&no-frame=true)](https://github.com/CoDeX-Ray/github-profile-trophy)
-
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="20" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="20" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="20" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter logo"  />
 </div>
 
-----------------------------
+###
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br clear="both">
 
-----------------------------
+<h6 data-importer="text" align="left">I'm currently 4th year Bachelor of Science in Computer Engineering  from Samar State University<br><br>- 🔭 I’m working as nothing<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and code again</h6>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoDeX-Ray/CoDeX-Ray/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoDeX-Ray/CoDeX-Ray/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CoDeX-Ray/CoDeX-Ray/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
