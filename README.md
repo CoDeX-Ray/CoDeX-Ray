@@ -8,11 +8,11 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h1>
+<h3 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h3>
 
 ###
 
-<h2 data-importer="text" align="left">Tools & Skills</h2>
+<h3 data-importer="text" align="left">Tools & Skills</h3>
 
 ###
 
