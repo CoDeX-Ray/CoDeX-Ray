@@ -2,13 +2,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+<h1 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h1>
+
 ###
 
 <img data-importer="image" align="left" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
-
-###
-
-<h2 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h2>
 
 ###
 
