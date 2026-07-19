@@ -4,6 +4,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="image" align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
 
 ###
