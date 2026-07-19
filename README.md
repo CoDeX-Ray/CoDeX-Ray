@@ -4,13 +4,15 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="left" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
+<img data-importer="image" align="left" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyZjI2Ynl6Ym10bjg5b2I2d2RnZDRobnJmeDdwYW0wM3FpcmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif"  />
 
 ###
 
 <h1 data-importer="text" align="left">Hi I'm CoDeX-Ray👋</h1>
+
+###
+
+<h3 data-importer="text" align="left">Tools & Skills</h3>
 
 ###
 
@@ -42,7 +44,7 @@
 
 <br clear="both">
 
-<h6 data-importer="text" align="left">I'm currently 4th year Bachelor of Science in Computer Engineering  from Samar State University<br><br>- 🔭 I’m working as nothing<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and code again</h6>
+<p data-importer="text" align="left">I'm currently 4th year Bachelor of Science in Computer Engineering  from Samar State University<br><br>- 🔭 I’m working as nothing<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and code again</p>
 
 ###
 
