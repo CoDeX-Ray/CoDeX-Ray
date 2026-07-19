@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="left">I'm currently 4th year Bachelor of Science in Computer Engineering  from Samar State University<br><br>- 🔭 I’m working as nothing<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and code again</p>
 
 ###
