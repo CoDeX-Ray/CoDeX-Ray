@@ -42,7 +42,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am currently a 4th-year student taking a Bachelor of Science in Computer Engineering at Samar State University.<br><br>- 🔭 I’m working as nothing<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and code again</p>
+<p data-importer="text" align="left">I am currently a 4th-year student taking a Bachelor of Science in Computer Engineering at Samar State University.<br><br>- 🔭 I’m working as Professional Tambay<br>- 📚 I'm currently learning everthing<br>- ⚡ In my free time I take a nap and grind again</p>
 
 ###
 
